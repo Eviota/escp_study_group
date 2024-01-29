@@ -1,0 +1,64 @@
+---
+title: "Preparing for Engagement"
+subtitle: "ESCP Student Group for Reprex"
+editor: visual
+format:
+  html: 
+    toc-depth: 2
+  docx: default
+  pdf:
+    colorlinks: true
+    latex: 
+       - lof: true
+lang: en-GB
+date: today
+language: 
+  section-title-references: "Hivatkozásjegyzék"
+author:
+  - name: "Antal Dániel, CFA"
+    orcid: 0000-0003-1689-0557
+---
+
+## Tasks
+
+Week 1:
+
+-   [x] Please write a short proposal letter for the first presentation in Week 2, as if you were approaching a prospective Consulting Client.
+    -   Introduce in a single letter the student group (if you want to, you can give it a project name), the members of the team, their brief interest, background, motivation and role in the group.
+    -   Please introduce the team with a short, tabular summary of your CVs, like LinkedIn pages, background, what they bring to the Consulting engagement, and of course, how they would like to be called, and what pronouns they wish to use in the engagement (she/her, he/him, they.)
+-   [x] do a bit of reading, searching, and prepare an introduction presentation for Week 2.
+
+Week 2:
+
+-   [x] Let us agree on a date and meeting link on Keybase for your first presentation and our first consultation.
+
+## House rules
+
+-   [x] Reprex is a business enterprise, its main value is its intellectual property. You must treat Reprex know-how and intellectual property a business secret. You may need to sign an non-disclousure agreement in case you get to know more in-house documents.
+
+-   [x] Reprex is an open-source developer, and we apply the [Contributor's Covenant](https://www.contributor-covenant.org/). Participating in open source is often a highly collaborative experience, and we want to make it an experience that gives you growth and offers safety for growth. Please read the [pledge](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) that you have to make. The gist is that we have very diverse backgrounds, and norms of making suggestions, giving/recieving feedback, politeness, etc, but we all thrive to
+
+    -   Demonstrating empathy and kindness toward other people
+    -   Being respectful of differing opinions, viewpoints, and experiences
+    -   Giving and gracefully accepting constructive feedback
+    -   Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+    -   Focusing on what is best not just for us as individuals, but for the overall community.
+    -   Should you have any problems during the coursework, please reach out to Dr. Zsuzsanna Vargha or Daniel Antal, CFA.
+
+## Tools
+
+-   [x] We have an onboarding manual for our projects. You do not need to read it now at all, just know that it is there and there may be answer. [contributors.dataobservatory.eu](https://contributors.dataobservatory.eu/)
+
+-   [x] Everybody signed up to [Keybase](https://contributors.dataobservatory.eu/collaboration-tools.html#keybase), so we do not need to write tedious emails, only when it is needed to practice a formal consulting engagement :)
+
+-   [x] I put the readings into a [Zotero](https://contributors.dataobservatory.eu/collaboration-tools.html#zotero) account here: [www.zotero.org/groups/5370040/opescp](https://www.zotero.org/groups/5370040/opescp). Please make sure that at least one of you have access to this. You can find and download, for example, all the 10 European Sustainability Reporting (draft) standards that will be used from 2025.
+
+*Apologies, the system sent you wrong invitations, make sure that you have access to the library*.
+
+-   [ ] If any of you have experience with [GitHub](https://contributors.dataobservatory.eu/collaboration-tools.html#github), we can also set up a simple GitHub project management for your engagement. GitHub is used by more than 80 million professionals for sharing files and manage projects, but mainly in more technical roles. It is far more safe and useful than Dropbox or a Google Drive. *Not mandatory.*
+
+-   [x] Other than that, if something in this information, onboarding materials is unclear or outdated help us improving them with your constructive feedback!
+
+## Readings
+
+-   [x] In our service development, we work with *stories*. Stories are short, narrative, fictionalised documents from user/client interviews. Please read a few of them here [Open Music Data stories](https://github.com/dataobservatory-eu/open-music-europe-user-stories), for example, [Jana's](https://music.dataobservatory.eu/documents/open_music_europe/dataset-development/stories/jana.html) story is not very technical; and [Georg's](https://music.dataobservatory.eu/documents/open_music_europe/dataset-development/stories/max.html) is interesting.
